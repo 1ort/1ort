@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1ort" alt="1ort" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/1ort/goimbo](Goimbo - Go powered imageboard engine)
-
-- 🌱 I’m currently learning **Frontend and web design**
+- 🔭 I’m currently working on [Goimbo: Go-powered imageboard engine](https://github.com/1ort/goimbo)
 
 - 💬 Ask me about **Python asyncio and mongodb**
 

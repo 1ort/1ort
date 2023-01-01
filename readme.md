@@ -1,4 +1,4 @@
-<h3 align="center">Homegrown developer and AI-art enthousiast from Russia</h3>
+<h3 align="center">Homegrown developer from Russia</h3>
 <hr>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1ort" alt="1ort" /></a> </p> -->
 

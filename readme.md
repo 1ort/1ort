@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Goimbo: Go-powered imageboard engine](https://github.com/1ort/goimbo)
 
-- 💬 Ask me about **Python asyncio and mongodb**
+- 💬 Ask me about **async python**
 
 - 📫 Reach me: **https://t.me/lochnesser**
 <hr>

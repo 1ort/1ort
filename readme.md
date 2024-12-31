@@ -13,7 +13,7 @@ Currently working as a Python backend engineer.
 <h3 >My open projects: </h3>
 <h4 >CLI tools:</h4>
 
- - (Rust) [resoy](https://github.com/1ort/resoy) - DNS query sender writen in rust
+ - (Rust) [resoy](https://github.com/1ort/resoy) - DNS client writen in rust
  - (Go) [checkr](https://github.com/1ort/checkr) - fast proxy checker written in Go
  - (Go) [cayuga](https://github.com/1ort/cayuga) - generate TON addresses based on regex
 

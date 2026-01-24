@@ -13,7 +13,7 @@ Currently working as a Python backend engineer.
 <h3 >My open projects: </h3>
 <h4 >Hardware:</h4>
 
- - (RP2040 Zero) [Amanita](https://github.com/1ort/resoy) - Open-source handwired numpad with rotary encoder.
+ - (RP2040 Zero) [Amanita](https://github.com/1ort/amanita) - Open-source handwired numpad with rotary encoder.
 
 <h4 >CLI tools:</h4>
 

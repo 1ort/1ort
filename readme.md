@@ -11,6 +11,10 @@ I have expertise in python stdlib and asyncio.
 Currently working as a Python backend engineer.
 
 <h3 >My open projects: </h3>
+<h4 >Hardware:</h4>
+
+ - (RP2040 Zero) [Amanita](https://github.com/1ort/resoy) - Open-source handwired numpad with rotary encoder.
+
 <h4 >CLI tools:</h4>
 
  - (Rust) [resoy](https://github.com/1ort/resoy) - DNS client writen in rust

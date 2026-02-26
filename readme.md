@@ -16,7 +16,7 @@ Currently working as a Python backend engineer.
  - (RP2040 Zero) [Amanita](https://github.com/1ort/amanita) - Open-source handwired numpad with rotary encoder.
 
 <h4 >CLI tools:</h4>
-
+ - (Rust) [kubiq](https://github.com/1ort/kubiq) - SQL-like querries against kubernetes cluster. Build with LLM-agent
  - (Rust) [resoy](https://github.com/1ort/resoy) - DNS client writen in rust
  - (Go) [checkr](https://github.com/1ort/checkr) - fast proxy checker written in Go
  - (Go) [cayuga](https://github.com/1ort/cayuga) - generate TON addresses based on regex

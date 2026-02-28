@@ -34,7 +34,7 @@ Currently working as a Python backend engineer.
 
 <h4>Training projects and lab work:</h4>
 
- - (Python) [aoc2024](https://github.com/1ort/aoc2024) - advent of code 2024 solutions
+ - (Python) [aoc](https://github.com/1ort/aoc) - advent of code 2024, 2025 solutions
  - (Rust) [grep-light](https://github.com/1ort/grep-light) - grep clone
  - (Rust) [mandelbrot_cli](https://github.com/1ort/mandelbrot_cli) - terminal mandelbrot set renderer
  - (Python) [simplesocial](https://github.com/1ort/simplesocial) - basic social network api
